@@ -1,0 +1,4 @@
+cart_id,user_id,product_id,product_name,quantity,price,added_date
+0f160ceb-2e84-4994-b93a-e52e95b9479a,8,1,"Amazon Echo (3rd Gen) - Smart speaker with Alexa, Charcoal Fabric",1,8249.0,2025-06-21 14:51:18
+69a4949f-b131-4468-8a25-b7310585348e,8,9,"Great Value Creamy Peanut Butter, 40 oz",1,415.0,2025-06-21 14:51:32
+1759c2bd-941c-492f-89c5-0c6b238a8c93,8,10,"Scotch-Brite Heavy Duty Scrub Sponge, 6 Pack",1,498.0,2025-06-21 14:51:32
