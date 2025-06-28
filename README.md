@@ -46,3 +46,5 @@ Millions across India, especially in Tier-2, Tier-3 cities and villages, still f
 3. AI model validates transaction risk
 4. PIN-based fallback and confirmation
 5. Secure payment completion
+
+Pototype: https://youtu.be/eWIlom2QqOc?si=CYfCHrN-uoQStc3e
